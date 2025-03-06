@@ -1,16 +1,15 @@
-## Hi there 👋
+<div>
+ <h3>About me</h3>
+ <p>Hi! i was born in Buenos Aires, Argentina. Im a software enthusiast and i have an average knowledge about Windows.</p> 
+ </div>
 
-<!--
-**Luk092f/Luk092f** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My current goals
 
-Here are some ideas to get you started:
+* Learn programming languages
+* Learn about Linux
+* Idk
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Profiles!
+
+* Twitter: [@Luk092_](https://x.com/Luk092_) 
+* Youtube: [@Luk-h6d](https://www.youtube.com/@Luk-h6d) (i dont usually post anything there)
